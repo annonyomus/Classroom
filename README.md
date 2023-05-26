@@ -1,1 +1,9 @@
-# Classroom
+How to setup the Repo 
+
+1 ) Download Github Desktop 
+2) sign in with ur github acc 
+3) create new empty file to put ur project 
+4) from file choose Clone repo .. 
+5) u will find 3 options choose the last one (URL)
+6) u will need to put the link of the repo ('')
+7) then on the local path choose the file u just created 
